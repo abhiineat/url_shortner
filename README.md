@@ -1,2 +1,2 @@
 # url_shortner
-This is a project made for knowledge and understaning purpose only...
+This project was developed way back just to clear basics and understand concepts of express using mongoDb
